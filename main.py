@@ -32,7 +32,7 @@ print(resp)
 
 print(resp.text) #拿到页面源代码
 
-
+resp.close()
 
 
 
